@@ -203,16 +203,15 @@ button {
 
 footer {
     background-color: #23272a;
-    /* test */
 
     padding-top: 8px;
 }
 
 
-footer .container > * {
-    border: dashed 2px white;
-    /* test */
-}
+/* footer .container > * {
+    /* border: dashed 2px white;
+    test
+} */
 
 
 footer #footer-top {
@@ -234,7 +233,7 @@ footer #footer-top .footer-column {
 }
 
 footer #footer-bottom {
-    background-color: #7fffd4;
+    /* background-color: #7fffd4; */
     /* test */
 
     margin-top: 16px;
@@ -247,7 +246,7 @@ footer #footer-bottom {
 }
 
 footer #footer-bottom > * {
-    background-color: #ffb6c1;
+    /* background-color: #ffb6c1; */
     /* test */
 
     padding: 4px 8px;
