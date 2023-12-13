@@ -145,15 +145,20 @@ button {
 
 
 
+
+
+
+
+
 /* sezioni grigie */
 .row {
     display: flex;
 }
 
 .column-big {
-    background-color: #1e90ff;
+    /* background-color: #1e90ff; */
     height: 400px;
-    border: dashed 2px black;
+    /* border: dashed 2px black; */
     /* test */
 
     /* width: 60%; */
@@ -161,9 +166,9 @@ button {
 }
 
 .column-small {
-    background-color: #ffc0cb;
+    /* background-color: #ffc0cb; */
     height: 400px;
-    border: dashed 2px black;
+    /* border: dashed 2px black; */
     /* test */
 
     /* width: 40%; */
@@ -172,11 +177,26 @@ button {
 
 
 .big-content {
-    background-color: #228b22;
+    /* background-color: #228b22; */
     height: 600px;
     /* test */
 }
+
+.big-content img {
+    object-fit: cover;
+}
 /* fine sezioni grigie */
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* sezione footer */
